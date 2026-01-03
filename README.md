@@ -4,7 +4,13 @@
 > Una Landing Page profesional, minimalista y de alto impacto visual diseñada para captación de clientes.
 
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-Terminado-success?style=for-the-badge)
-![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge)
+![Licencia](https://img.shields.io/badge/LICENCIA-PROPIEDAD_PRIVADA-red?style=for-the-badge)
+
+## ⚖️ Aviso Legal y Propiedad Intellectual
+
+Este código es propiedad exclusiva de **Sergio Digital Studio**. 
+
+**Queda prohibida la reproducción, copia, distribución o modificación** total o parcial de este código sin la autorización expresa y por escrito del autor. Todos los derechos están reservados.
 
 ## 🌐 Demo en Vivo
 
