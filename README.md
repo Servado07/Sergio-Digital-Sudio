@@ -55,8 +55,8 @@ Estos son los paquetes de servicios integrados que ofrezco actualmente a los cli
 
 | Plan | Enfoque | Precio Estimado | Incluye |
 | :--- | :--- | :--- | :--- |
-| **Básico** | *Presencia Digital* | **350€ - 450€** | • Landing Page (One Page)<br>• Diseño Cartel A3<br>• Dominio y Hosting (1 año) |
-| **Pro** | *Impulso Comercial* | **600€ - 750€** | • Web Multi-página (4 secciones)<br>• Flyer A5 + Menú QR<br>• Galerías Interactivas |
-| **Premium** | *Identidad Total* | **Consultar** | • Web Corporativa Completa<br>• Pack Marketing Físico y RRSS<br>• Micro-interacciones Avanzadas |
+| **Básico** | *Presencia Digital* | **350€ - 450€** | • Landing Page (One Page)<br>• Dominio y Hosting (1 año) |
+| **Pro** | *Impulso Comercial* | **600€ - 750€** | • Web Multi-página (4 secciones)<br>• Galerías Interactivas |
+| **Premium** | *Identidad Total* | **Consultar** | • Web Corporativa Completa<br>• Micro-interacciones Avanzadas |
 
 ---
