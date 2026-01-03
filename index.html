@@ -32,6 +32,7 @@
               >Sergio <span class="text-blue-500">Digital</span> Studio</span
             >
           </div>
+
           <div class="hidden md:flex space-x-8 items-center">
             <a
               href="#inicio"
@@ -50,6 +51,36 @@
               Presupuesto Gratis
             </a>
           </div>
+
+          <div class="md:hidden flex items-center">
+            <button id="mobile-menu-btn" class="text-white focus:outline-none">
+              <i class="fa-solid fa-bars text-2xl"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div
+        id="mobile-menu"
+        class="hidden md:hidden absolute w-full bg-gray-900/95 backdrop-blur-xl border-b border-white/10 shadow-2xl transition-all duration-300 ease-in-out origin-top transform scale-y-0 opacity-0"
+      >
+        <div class="px-4 pt-4 pb-6 space-y-4 flex flex-col items-center">
+          <a
+            href="#inicio"
+            class="mobile-link block text-gray-300 hover:text-white text-lg font-medium"
+            >Inicio</a
+          >
+          <a
+            href="#servicios"
+            class="mobile-link block text-gray-300 hover:text-white text-lg font-medium"
+            >Planes</a
+          >
+          <a
+            href="#contacto"
+            class="mobile-link w-full text-center bg-blue-600 hover:bg-blue-700 text-white px-5 py-3 rounded-full text-lg font-medium shadow-lg shadow-blue-500/30"
+          >
+            Presupuesto Gratis
+          </a>
         </div>
       </div>
     </nav>
