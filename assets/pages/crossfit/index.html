@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Iron Box | Demo CrossFit</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+  <body class="font-sans antialiased text-gray-300 bg-zinc-900">
+    <nav class="absolute w-full z-50 py-6 border-b border-white/5">
+      <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
+        <span
+          class="text-white font-black text-3xl italic tracking-tighter uppercase"
+          >Iron<span class="text-lime-400">Box</span></span
+        >
+        <a
+          href="../../../index.html"
+          class="text-gray-400 hover:text-lime-400 font-bold uppercase text-sm tracking-wide transition-colors"
+        >
+          <i class="fa-solid fa-arrow-left mr-2"></i>Portfolio
+        </a>
+      </div>
+    </nav>
+
+    <header class="relative h-screen flex items-center">
+      <div class="absolute inset-0">
+        <img
+          src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1920&q=80"
+          class="w-full h-full object-cover"
+          alt="Gimnasio CrossFit"
+        />
+        <div class="absolute inset-0 bg-black/60"></div>
+      </div>
+      <div class="relative z-10 max-w-7xl mx-auto px-4 w-full">
+        <div class="max-w-2xl" data-aos="fade-right">
+          <span
+            class="text-lime-400 font-bold uppercase tracking-widest mb-2 block"
+            >Est. 2026</span
+          >
+          <h1
+            class="text-6xl md:text-8xl font-black text-white mb-6 uppercase leading-none italic"
+          >
+            Rompe tus <br /><span
+              class="text-transparent bg-clip-text bg-gradient-to-r from-lime-400 to-green-600"
+              >Límites</span
+            >
+          </h1>
+          <p class="text-xl text-gray-200 mb-8 max-w-lg">
+            No es solo un gimnasio, es una comunidad. Entrenamientos de alta
+            intensidad adaptados a todos los niveles.
+          </p>
+          <button
+            class="bg-lime-500 hover:bg-lime-600 text-zinc-900 px-8 py-4 font-black uppercase tracking-wider skew-x-[-10deg] transition-transform hover:skew-x-[-10deg] hover:scale-105"
+          >
+            <span class="skew-x-[10deg] block">Prueba una clase gratis</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <section class="py-20 bg-zinc-800">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div
+            class="bg-zinc-900 p-8 border border-zinc-700 hover:border-lime-500 transition-colors group"
+            data-aos="fade-up"
+          >
+            <h3
+              class="text-2xl font-bold text-white mb-4 uppercase italic group-hover:text-lime-400"
+            >
+              WOD Diario
+            </h3>
+            <p class="text-gray-400">
+              Entrenamientos variados cada día para que nunca te aburras y
+              siempre progreses.
+            </p>
+          </div>
+          <div
+            class="bg-zinc-900 p-8 border border-zinc-700 hover:border-lime-500 transition-colors group"
+            data-aos="fade-up"
+            data-aos-delay="100"
+          >
+            <h3
+              class="text-2xl font-bold text-white mb-4 uppercase italic group-hover:text-lime-400"
+            >
+              Comunidad
+            </h3>
+            <p class="text-gray-400">
+              Entrena en grupo, motívate con tus compañeros y alcanza metas
+              juntos.
+            </p>
+          </div>
+          <div
+            class="bg-zinc-900 p-8 border border-zinc-700 hover:border-lime-500 transition-colors group"
+            data-aos="fade-up"
+            data-aos-delay="200"
+          >
+            <h3
+              class="text-2xl font-bold text-white mb-4 uppercase italic group-hover:text-lime-400"
+            >
+              Coaches Pro
+            </h3>
+            <p class="text-gray-400">
+              Entrenadores certificados que corregirán tu técnica y te empujarán
+              al máximo.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+  </body>
+</html>
